@@ -20,6 +20,8 @@ Registrazione iniziale: **3 novembre 2026**. Il registro conserva stato, fonte e
 
 La stessa approvazione prescrive voice personale invariata byte-per-byte, importazione integrale del TOV con hash preservato, nessuna routine attiva e mantenimento delle cinque scelte aperte riportate sotto. Non modificare `CLAUDE.md` o `.claude/skills/` e non creare `legacy/claude/CLAUDE-MASTELLA.md`.
 
+**S4 — Riordino organizzativo autorizzato da Maria Pia nella chat di progetto il 3 novembre 2026.** Richiesta: «ultimo riordino della repository, esclusivamente organizzativo». Documentazione spostata in `docs/`, materiali storici rinominati con indicazione Mastella, soli riferimenti aggiornati. La [mappa dei percorsi](docs/MAPPA-PERSONALIZZAZIONE.md#riordino-organizzativo--3-novembre-2026) conserva la corrispondenza. I nomi citati in S3 sono quelli precedenti al riordino; contenuti preservati e compatibilità Claude ancora esclusa. Nessun cambiamento a regole, procedure, routine o scelte editoriali aperte. Commit e push non autorizzati in questa fase.
+
 ## Decisioni in vigore
 
 | ID | Data | Stato | Decisione sintetica | Fonte/ambito | Sede canonica |
@@ -30,11 +32,12 @@ La stessa approvazione prescrive voice personale invariata byte-per-byte, import
 | D04 | Registrata 2026-11-03 | APPROVATA | Formati intenzionali ed evolutivi; conclusioni di performance solo da misure reali | S1 §§1.9–1.10; S3, reference | [Formats](skills/content-linkedin/references/formats.md), [performance](skills/content-linkedin/references/performance.md) |
 | D05 | Registrata 2026-11-03 | APPROVATA | Matrice Tempo Presente adattata a LinkedIn; UX nostra con contenuto da sviluppare | S1 §§1.11–1.12; S2; S3, visual/UX | [Graphics](skills/content-linkedin/references/graphics.md), [UX](skills/content-linkedin/references/ux-library.md) |
 | D06 | Registrata 2026-11-03 | APPROVATA, ROUTINE INATTIVA | Revisione di ogni contenuto prima del visual; ciclo completo di 16 passaggi solo manuale | S1 §§1.13–1.14; S3, processo | [Revisione](skills/revisione-anti-ai/SKILL.md), [routine](routines/linkedin-weekly-plan.md) |
-| T1 | Approvata 2026-11-03 | APPROVATA | Tre ingressi Codex con rimando alle procedure canoniche; originali trasferiti in legacy | S3, caricamento skill | [Integrazione](INTEGRAZIONE-CONTENT-MANAGER.md) |
+| T1 | Approvata 2026-11-03 | APPROVATA | Tre ingressi Codex con rimando alle procedure canoniche; originali trasferiti in legacy | S3, caricamento skill | [Integrazione](docs/INTEGRAZIONE-CONTENT-MANAGER.md) |
 | T2 | Approvata 2026-11-03 | APPROVATA | Reference condivise per positioning e TOV integrale; questo registro | S3, persistenza | [Positioning](references/maria-pia/positioning.md), [TOV](references/tempo-presente/TONE_OF_VOICE.md), questo file |
-| T3 | Esclusa 2026-11-03 | ESCLUSA | Nessun lavoro di compatibilità Claude; file esistenti conservati come storico | S3, perimetro tecnico | [AGENTS](AGENTS.md), [integrazione](INTEGRAZIONE-CONTENT-MANAGER.md) |
+| T3 | Esclusa 2026-11-03 | ESCLUSA | Nessun lavoro di compatibilità Claude; file esistenti conservati come storico | S3, perimetro tecnico | [AGENTS](AGENTS.md), [integrazione](docs/INTEGRAZIONE-CONTENT-MANAGER.md) |
 | T4 | Approvata 2026-11-03 | APPROVATA | Tracciabilità selettiva di tre file archivio, dati performance e bozze/.gitkeep; altri contenuti locali esclusi | S3, politica Git | [.gitignore](.gitignore) |
 | T5 | Approvata 2026-11-03 | APPROVATA | Osservazione → candidata → approvata; ambiti distinti per piano, produzione, pubblicazione/programmazione | S3, apprendimento e autorizzazioni | [Skill LinkedIn](skills/content-linkedin/SKILL.md), [memoria](archivio/voce.md) |
+| O1 | Approvata 2026-11-03 | APPROVATA | Riordino dei soli percorsi documentali e storici; sistema operativo e contenuti canonici invariati | S4, organizzazione | [Mappa](docs/MAPPA-PERSONALIZZAZIONE.md#riordino-organizzativo--3-novembre-2026) |
 
 SHA-256 della voice personale preservata: `4660B34A7B9DA93BAFE642E03B208F8FDC2A99F9277ABE556336560D84A5DAFE`.
 

@@ -1,12 +1,12 @@
 # Content Manager — Maria Pia Grossi
 
-Questa repository è il sistema operativo del progetto personale di Maria Pia Grossi in **Codex**. Parti dalla [guida corrente](README-CONTENT-MANAGER.md) e da [AGENTS.md](AGENTS.md); le approvazioni e le scelte aperte sono in [DECISIONI.md](DECISIONI.md).
+Questa repository è il sistema operativo del progetto personale di Maria Pia Grossi in **Codex**. Parti dalla [guida corrente](docs/README-CONTENT-MANAGER.md) e da [AGENTS.md](AGENTS.md); le approvazioni e le scelte aperte sono in [DECISIONI.md](DECISIONI.md).
 
-Le procedure canoniche sono in `skills/`, richiamate dai tre ingressi Codex in `.agents/skills/`. La voice personale è preservata e il TOV Tempo Presente è importato integralmente. La routine è **INATTIVA**. T3 è esclusa: `CLAUDE.md` e `.claude/skills/` restano materiale storico invariato.
+Le procedure canoniche sono in `skills/`, richiamate dai tre ingressi Codex in `.agents/skills/`. La voice personale è preservata e il TOV Tempo Presente è importato integralmente. La routine è **INATTIVA**. T3 è esclusa: `CLAUDE-MASTELLA.md` e `.claude-mastella/skills/` restano materiale storico invariato.
 
 ## Documentazione originale Mastella — storico
 
-Il testo originale seguente, inclusi i crediti, è conservato integralmente. Descrive il metodo e la demo di partenza; nomi, configurazioni e istruzioni che contiene non governano il flusso operativo Maria Pia. Per provenienze e adattamenti consulta la [mappa](MAPPA-PERSONALIZZAZIONE.md).
+Il testo originale seguente, inclusi i crediti, è conservato; sono aggiornati soltanto i collegamenti navigabili ai materiali rinominati. Gli esempi di percorsi e comandi mantengono la forma storica, interpretabile tramite la mappa. Descrive il metodo e la demo di partenza; nomi, configurazioni e istruzioni che contiene non governano il flusso operativo Maria Pia. Per provenienze e adattamenti consulta la [mappa](docs/MAPPA-PERSONALIZZAZIONE.md).
 
 ---
 
@@ -23,7 +23,7 @@ Funziona con Claude Code, Cowork, Codex, ChatGPT, Gemini e Copilot.
 - Il foglio Google con prompt, skill e checklist, da copiare con File, Crea una copia: [Toolkit per creare contenuti con un agente AI](https://docs.google.com/spreadsheets/d/1rx9xRtLZRMupLdK975Hy7Pj5nZB_eaNzy07BjSeSvK8/edit)
 - Tutte le sessioni dell'Agents Week: [learnn.com/agents-week/programma](https://learnn.com/agents-week/programma/)
 
-Le domande arrivate in chat hanno le loro risposte in [procedure/11-domande-frequenti.md](procedure/11-domande-frequenti.md). Chi non ha uno storico di post o lavora su Instagram, YouTube o un blog parte da [procedure/10-senza-storico-e-altri-canali.md](procedure/10-senza-storico-e-altri-canali.md).
+Le domande arrivate in chat hanno le loro risposte in [procedure-mastella/11-domande-frequenti.md](procedure-mastella/11-domande-frequenti.md). Chi non ha uno storico di post o lavora su Instagram, YouTube o un blog parte da [procedure-mastella/10-senza-storico-e-altri-canali.md](procedure-mastella/10-senza-storico-e-altri-canali.md).
 
 ## A chi serve
 
@@ -87,17 +87,17 @@ Dopo il giro sull'esempio costruisci la tua cartella seguendo le procedure in or
 
 | Procedura | Cosa fai | Tempo |
 |---|---|---|
-| [01. Preparare la cartella](procedure/01-preparare-la-cartella.md) | Chiedi l'export a LinkedIn, crei le cartelle, compili il file di istruzioni | 10 minuti, più 24 ore di attesa per l'export |
-| [02. Costruire l'archivio](procedure/02-costruire-archivio.md) | Dall'export all'indice dei post con i loro numeri | 30 minuti |
-| [03. Le regole della voce](procedure/03-regole-della-voce.md) | Ricavi dai tuoi testi le regole del tuo modo di scrivere, con i dati | 30 minuti |
-| [04. Creare la skill](procedure/04-creare-la-skill.md) | La skill che aggiorna l'archivio, propone il piano e scrive i post | 20 minuti |
-| [05. Scrivere e correggere](procedure/05-scrivere-e-correggere.md) | Il primo post e le correzioni che diventano regole | Ogni post |
-| [06. Dalle domande alle idee](procedure/06-dalle-domande-alle-idee.md) | Dalle domande di chi ti segue alle idee di post | 15 minuti |
-| [07. L'articolo da un evento](procedure/07-articolo-da-un-evento.md) | Da una trascrizione a un articolo con FAQ e fonti | 30 minuti |
-| [08. La routine settimanale](procedure/08-routine-settimanale.md) | Il piano del lunedì che arriva da solo | Dopo tre o quattro settimane |
-| [09. Gli altri strumenti](procedure/09-altri-strumenti.md) | Dove mettere ogni pezzo su Claude, Codex, ChatGPT, Gemini e Copilot | Quando serve |
-| [10. Senza storico e su altri canali](procedure/10-senza-storico-e-altri-canali.md) | Se non hai mai pubblicato oppure lavori su Instagram, Facebook, TikTok, YouTube e blog | Quando serve |
-| [11. Le domande del webinar](procedure/11-domande-frequenti.md) | Le risposte alle domande più frequenti della chat | Quando serve |
+| [01. Preparare la cartella](procedure-mastella/01-preparare-la-cartella.md) | Chiedi l'export a LinkedIn, crei le cartelle, compili il file di istruzioni | 10 minuti, più 24 ore di attesa per l'export |
+| [02. Costruire l'archivio](procedure-mastella/02-costruire-archivio.md) | Dall'export all'indice dei post con i loro numeri | 30 minuti |
+| [03. Le regole della voce](procedure-mastella/03-regole-della-voce.md) | Ricavi dai tuoi testi le regole del tuo modo di scrivere, con i dati | 30 minuti |
+| [04. Creare la skill](procedure-mastella/04-creare-la-skill.md) | La skill che aggiorna l'archivio, propone il piano e scrive i post | 20 minuti |
+| [05. Scrivere e correggere](procedure-mastella/05-scrivere-e-correggere.md) | Il primo post e le correzioni che diventano regole | Ogni post |
+| [06. Dalle domande alle idee](procedure-mastella/06-dalle-domande-alle-idee.md) | Dalle domande di chi ti segue alle idee di post | 15 minuti |
+| [07. L'articolo da un evento](procedure-mastella/07-articolo-da-un-evento.md) | Da una trascrizione a un articolo con FAQ e fonti | 30 minuti |
+| [08. La routine settimanale](procedure-mastella/08-routine-settimanale.md) | Il piano del lunedì che arriva da solo | Dopo tre o quattro settimane |
+| [09. Gli altri strumenti](procedure-mastella/09-altri-strumenti.md) | Dove mettere ogni pezzo su Claude, Codex, ChatGPT, Gemini e Copilot | Quando serve |
+| [10. Senza storico e su altri canali](procedure-mastella/10-senza-storico-e-altri-canali.md) | Se non hai mai pubblicato oppure lavori su Instagram, Facebook, TikTok, YouTube e blog | Quando serve |
+| [11. Le domande del webinar](procedure-mastella/11-domande-frequenti.md) | Le risposte alle domande più frequenti della chat | Quando serve |
 
 Le cartelle `archivio/`, `dati/` e `bozze/` nella radice sono escluse da git (vedi `.gitignore`): i tuoi post e i tuoi dati restano sul tuo computer anche se pubblichi una copia del repository.
 
