@@ -15,9 +15,9 @@ Thumbs.db
 !/bozze/.gitkeep
 
 # Bozze e risultati generati provando la demo originale
-esempio-mastella/bozze/*
-!esempio-mastella/bozze/.gitkeep
-esempio-mastella/dati/gruppi-di-domande.md
+mastella/esempio-mastella/bozze/*
+!mastella/esempio-mastella/bozze/.gitkeep
+mastella/esempio-mastella/dati/gruppi-di-domande.md
 
 # Export grezzi e impostazioni locali
 *.csv
@@ -25,4 +25,4 @@ esempio-mastella/dati/gruppi-di-domande.md
 .env
 .env.*
 *.local.*
-.claude-mastella/settings.local.json
+mastella/.claude-mastella/settings.local.json

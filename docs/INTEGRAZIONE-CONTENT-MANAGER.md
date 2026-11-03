@@ -14,7 +14,7 @@ Aggiornamento del 3 novembre 2026: applicati T1, T2, T4 e T5 approvati. **T3 esc
 
 Ogni ingresso contiene soltanto metadati e il rinvio alla procedura. I percorsi interni si risolvono rispetto al file canonico. Non sono stati introdotti collegamenti simbolici o modifiche alla configurazione globale.
 
-Le precedenti copie Codex di `post-linkedin`, `articolo-blog` e `revisione-anti-ai` sono conservate con gli stessi contenuti in `legacy/codex-skills-mastella/<nome>/SKILL.md`. La revisione operativa usa un nuovo ingresso nel percorso precedente. Le skill storiche restano consultabili come fonti, fuori dall'instradamento operativo.
+Le precedenti copie Codex di `post-linkedin`, `articolo-blog` e `revisione-anti-ai` sono conservate con gli stessi contenuti in `mastella/codex-skills-mastella/<nome>/SKILL.md`. La revisione operativa usa un nuovo ingresso nel percorso precedente. Le skill storiche restano consultabili come fonti, fuori dall'instradamento operativo.
 
 ## Conoscenza, memoria e dati
 
@@ -30,7 +30,7 @@ La politica selettiva [../.gitignore](../.gitignore) rende tracciabili i tre fil
 
 ## Preservazioni e limiti
 
-`CLAUDE-MASTELLA.md`, `.claude-mastella/skills/`, `procedure-mastella/`, `toolkit-mastella/`, `esempio-mastella/` e `AGENTS-MASTELLA-ORIGINALE.md` restano invariati. Non viene creata una copia `legacy/claude/CLAUDE-MASTELLA.md`. Il README ha una nuova apertura operativa; **il contenuto originale sottostante e i crediti sono conservati; solo i collegamenti navigabili sono aggiornati ai nuovi percorsi**, quindi non è corretto dichiarare invariato l'intero file README.
+`mastella/CLAUDE-MASTELLA.md`, `mastella/.claude-mastella/skills/`, `mastella/procedure-mastella/`, `mastella/toolkit-mastella/`, `mastella/esempio-mastella/` e `mastella/AGENTS-MASTELLA-ORIGINALE.md` restano invariati. Non viene creata una copia `legacy/claude/CLAUDE-MASTELLA.md`. Il README nella root presenta soltanto il progetto corrente. Il corpo storico e i crediti sono in [mastella/README.md](../mastella/README.md), trasferiti senza ulteriori modifiche rispetto alla versione con i 13 link già aggiornati nel precedente riordino.
 
 La [routine](../routines/linkedin-weekly-plan.md) contiene il flusso completo approvato ma resta **INATTIVA**. Piano, produzione e pubblicazione/programmazione hanno autorizzazioni distinte, cumulabili solo quando esplicite. Nessuna soglia automatica promuove osservazioni a regole.
 

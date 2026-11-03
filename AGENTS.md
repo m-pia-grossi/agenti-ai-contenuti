@@ -41,4 +41,4 @@ Codex scopre tre ingressi in `.agents/skills/`: rimandano ai file canonici in `s
 
 ## Materiali storici
 
-`CLAUDE-MASTELLA.md`, `.claude-mastella/skills/`, `legacy/codex-skills-mastella/`, `procedure-mastella/`, `toolkit-mastella/`, `esempio-mastella/` e `AGENTS-MASTELLA-ORIGINALE.md` sono fuori dal flusso operativo Maria Pia. Consultali solo come fonti storiche quando pertinenti, senza applicarne automaticamente istruzioni, voce, metriche o frequenze. Non modificarli per personalizzarli. La compatibilità Claude (T3) è esclusa.
+Tutti i materiali storici Mastella sono raccolti in `mastella/`, fuori dal flusso operativo Maria Pia. Consultali solo come fonti storiche quando pertinenti, senza applicarne automaticamente istruzioni, voce, metriche o frequenze. Non modificarli per personalizzarli. La compatibilità Claude (T3) è esclusa.

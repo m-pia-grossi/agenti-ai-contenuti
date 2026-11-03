@@ -22,6 +22,8 @@ La stessa approvazione prescrive voice personale invariata byte-per-byte, import
 
 **S4 — Riordino organizzativo autorizzato da Maria Pia nella chat di progetto il 3 novembre 2026.** Richiesta: «ultimo riordino della repository, esclusivamente organizzativo». Documentazione spostata in `docs/`, materiali storici rinominati con indicazione Mastella, soli riferimenti aggiornati. La [mappa dei percorsi](docs/MAPPA-PERSONALIZZAZIONE.md#riordino-organizzativo--3-novembre-2026) conserva la corrispondenza. I nomi citati in S3 sono quelli precedenti al riordino; contenuti preservati e compatibilità Claude ancora esclusa. Nessun cambiamento a regole, procedure, routine o scelte editoriali aperte. Commit e push non autorizzati in questa fase.
 
+**S5 — Raccolta dei materiali Mastella in una sola cartella, richiesta da Maria Pia nella chat di progetto il 3 novembre 2026.** Dopo il primo riordino, l’utente segnala che i materiali storici sono ancora dispersi e ne richiede il raggruppamento. Tutti confluiscono in `mastella/`, compresi il file di istruzioni originale e il corpo storico del README; contenuti preservati. Questa scelta aggiorna la collocazione dei materiali prevista da O1. Il sistema operativo mantiene i percorsi e le regole approvati.
+
 ## Decisioni in vigore
 
 | ID | Data | Stato | Decisione sintetica | Fonte/ambito | Sede canonica |
@@ -38,6 +40,7 @@ La stessa approvazione prescrive voice personale invariata byte-per-byte, import
 | T4 | Approvata 2026-11-03 | APPROVATA | Tracciabilità selettiva di tre file archivio, dati performance e bozze/.gitkeep; altri contenuti locali esclusi | S3, politica Git | [.gitignore](.gitignore) |
 | T5 | Approvata 2026-11-03 | APPROVATA | Osservazione → candidata → approvata; ambiti distinti per piano, produzione, pubblicazione/programmazione | S3, apprendimento e autorizzazioni | [Skill LinkedIn](skills/content-linkedin/SKILL.md), [memoria](archivio/voce.md) |
 | O1 | Approvata 2026-11-03 | APPROVATA | Riordino dei soli percorsi documentali e storici; sistema operativo e contenuti canonici invariati | S4, organizzazione | [Mappa](docs/MAPPA-PERSONALIZZAZIONE.md#riordino-organizzativo--3-novembre-2026) |
+| O2 | Approvata 2026-11-03 | APPROVATA | Tutti i materiali storici raccolti in mastella/; aggiorna la collocazione prevista da O1 | S5, organizzazione | [Mappa](docs/MAPPA-PERSONALIZZAZIONE.md#riordino-organizzativo--3-novembre-2026) |
 
 SHA-256 della voice personale preservata: `4660B34A7B9DA93BAFE642E03B208F8FDC2A99F9277ABE556336560D84A5DAFE`.
 

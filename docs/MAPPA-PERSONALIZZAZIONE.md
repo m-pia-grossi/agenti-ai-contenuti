@@ -35,29 +35,31 @@ Aggiornata al 3 novembre 2026. Il livello operativo è quello di Maria Pia Gross
 
 | Elemento | Provenienza | Stato |
 |---|---|---|
-| Corpo originale [README](../README.md) e crediti | MASTELLA — REPO | Non identico byte-per-byte all'originale: aggiornate soltanto le destinazioni di 13 collegamenti locali e le etichette di 2 di essi ai nuovi percorsi; restante corpo storico e crediti invariati |
-| `AGENTS-MASTELLA-ORIGINALE.md` | MASTELLA — REPO | Conservato, fuori dal flusso operativo |
-| `CLAUDE-MASTELLA.md` e `.claude-mastella/skills/` | MASTELLA — REPO | Invariati; T3 esclusa, nessuna compatibilità Claude sviluppata |
-| `legacy/codex-skills-mastella/` | MASTELLA — REPO, copie precedentemente presenti in `.agents/skills/` | Originali conservati byte-per-byte fuori dal caricamento operativo |
-| `procedure-mastella/`, `toolkit-mastella/`, `esempio-mastella/` | MASTELLA — REPO | Conservati integralmente; metodo, esempi e dati non sono istruzioni o risultati personali |
+| Corpo originale [README](../mastella/README.md) e crediti | MASTELLA — REPO | Non identico byte-per-byte all'originale: aggiornate soltanto le destinazioni di 13 collegamenti locali e le etichette di 2 di essi ai nuovi percorsi; restante corpo storico e crediti invariati. Trasferito in `mastella/README.md` senza ulteriori modifiche |
+| `mastella/AGENTS-MASTELLA-ORIGINALE.md` | MASTELLA — REPO | Conservato, fuori dal flusso operativo |
+| `mastella/CLAUDE-MASTELLA.md` e `mastella/.claude-mastella/skills/` | MASTELLA — REPO | Invariati; T3 esclusa, nessuna compatibilità Claude sviluppata |
+| `mastella/codex-skills-mastella/` | MASTELLA — REPO, copie precedentemente presenti in `.agents/skills/` | Originali conservati byte-per-byte fuori dal caricamento operativo |
+| `mastella/procedure-mastella/`, `mastella/toolkit-mastella/`, `mastella/esempio-mastella/` | MASTELLA — REPO | Conservati integralmente; metodo, esempi e dati non sono istruzioni o risultati personali |
 | Vecchio sito piagrossi.it | NOSTRO, fonte personale storica | Non importato; eventuale consultazione secondaria rispetto al posizionamento corrente |
 
 Non sono disponibili gli originali delle reference interne Mastella descritte nel webinar. La loro organizzazione può ispirare il sistema; i contenuti nuovi non vanno attribuiti a Mastella. Nessuna sua voce, pubblicazione o metrica è stata importata come dato di Maria Pia.
 
 ## Riordino organizzativo — 3 novembre 2026
 
-Autorizzato da Maria Pia nella chat di progetto con la richiesta «ultimo riordino della repository, esclusivamente organizzativo». Percorsi operativi, regole e decisioni editoriali aperte restano invariati.
+Primo riordino autorizzato da Maria Pia nella chat di progetto con la richiesta «ultimo riordino della repository, esclusivamente organizzativo», poi completato con la richiesta di raccogliere tutti i materiali Mastella in una sola cartella. La tabella riporta le destinazioni correnti. Percorsi operativi, regole e decisioni editoriali aperte restano invariati.
 
 | Percorso precedente | Percorso corrente |
 |---|---|
 | `README-CONTENT-MANAGER.md` | `docs/README-CONTENT-MANAGER.md` |
 | `INTEGRAZIONE-CONTENT-MANAGER.md` | `docs/INTEGRAZIONE-CONTENT-MANAGER.md` |
 | `MAPPA-PERSONALIZZAZIONE.md` | `docs/MAPPA-PERSONALIZZAZIONE.md` |
-| `CLAUDE.md` | `CLAUDE-MASTELLA.md` |
-| `.claude/` | `.claude-mastella/` |
-| `procedure/` | `procedure-mastella/` |
-| `toolkit/` | `toolkit-mastella/` |
-| `esempio/` | `esempio-mastella/` |
-| `legacy/codex-skills/` | `legacy/codex-skills-mastella/` |
+| `CLAUDE.md` | `mastella/CLAUDE-MASTELLA.md` |
+| `.claude/` | `mastella/.claude-mastella/` |
+| `procedure/` | `mastella/procedure-mastella/` |
+| `toolkit/` | `mastella/toolkit-mastella/` |
+| `esempio/` | `mastella/esempio-mastella/` |
+| `legacy/codex-skills/` | `mastella/codex-skills-mastella/` |
+| `AGENTS-MASTELLA-ORIGINALE.md` | `mastella/AGENTS-MASTELLA-ORIGINALE.md` |
+| Corpo storico dentro `README.md` | `mastella/README.md` |
 
-Provenienza verificata confrontando i materiali storici con `upstream/main` al commit `24865a0821d2badf548a15a61d90b337df84599a`; le copie legacy corrispondono alle skill originali in `.claude/skills/` di quel commit. I file storici rinominati e `AGENTS-MASTELLA-ORIGINALE.md` conservano i byte originali. Il corpo storico del README costituisce l’eccezione documentata nella tabella: sono cambiati esclusivamente i collegamenti indicati, quindi non è byte-per-byte identico all’originale. I vecchi percorsi presenti nei loro esempi descrivono la struttura originale e si interpretano tramite questa mappa; non sono istruzioni operative correnti.
+Provenienza verificata confrontando i materiali storici con `upstream/main` al commit `24865a0821d2badf548a15a61d90b337df84599a`; le copie legacy corrispondono alle skill originali in `.claude/skills/` di quel commit. I file storici rinominati e `mastella/AGENTS-MASTELLA-ORIGINALE.md` conservano i byte originali. Il corpo storico del README costituisce l’eccezione documentata nella tabella: sono cambiati esclusivamente i collegamenti indicati, quindi non è byte-per-byte identico all’originale. I vecchi percorsi presenti nei loro esempi descrivono la struttura originale e si interpretano tramite questa mappa; non sono istruzioni operative correnti.
