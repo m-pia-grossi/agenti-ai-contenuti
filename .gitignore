@@ -2,17 +2,24 @@
 .DS_Store
 Thumbs.db
 
-# La tua cartella di lavoro nella radice: post, dati e bozze restano sul tuo computer
-/archivio/
-/dati/
-/bozze/
+# Memoria curata: includere solo i file esplicitamente approvati (T4)
+/archivio/*
+!/archivio/voce.md
+!/archivio/post-indice.md
+!/archivio/post-testi.md
+/dati/*
+!/dati/performance-linkedin.md
 
-# Bozze generate provando l'esempio
+# Bozze di lavoro locali; conservare soltanto la struttura della cartella
+/bozze/*
+!/bozze/.gitkeep
+
+# Bozze e risultati generati provando la demo originale
 esempio/bozze/*
 !esempio/bozze/.gitkeep
 esempio/dati/gruppi-di-domande.md
 
-# Export e file che possono contenere dati personali o accessi
+# Export grezzi e impostazioni locali
 *.csv
 *.zip
 .env

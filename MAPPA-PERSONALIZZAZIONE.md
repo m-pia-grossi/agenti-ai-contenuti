@@ -1,31 +1,43 @@
 # Mappa di provenienza e personalizzazione
 
-Questa tabella serve a distinguere ciò che deriva dai materiali di Luca Mastella da ciò che è stato aggiunto per il sistema di Tommaso.
+Aggiornata al 3 novembre 2026. Il livello operativo è quello di Maria Pia Grossi in Codex. Le fonti del metodo e gli adattamenti personali restano distinti.
+
+**MASTELLA — REPO** identifica materiale originale disponibile o un metodo documentato nella repo; **MASTELLA — WEBINAR** indica elementi descritti nel webinar, senza implicare disponibilità dei file interni. **NOSTRO** identifica documenti, adattamenti e decisioni di questo progetto. **DA PERSONALIZZARE** e **DA GENERARE DAI DATI** indicano stato e lavoro futuro, non provenienza originale.
+
+## Sistema operativo
+
+| Elemento | Provenienza del contenuto e del metodo | Stato e destinazione |
+|---|---|---|
+| [AGENTS](AGENTS.md) | NOSTRO; principio delle istruzioni di progetto MASTELLA — REPO | Orchestratore Maria Pia, operativo |
+| [Ruolo LinkedIn](agents/content-linkedin.md) | NOSTRO | Operativo; distinta specializzazione |
+| [Skill LinkedIn](skills/content-linkedin/SKILL.md) | NOSTRO; metodo MASTELLA — REPO e organizzazione delle reference MASTELLA — WEBINAR | Procedura canonica adattata |
+| `.agents/skills/` | NOSTRO | Tre ingressi Codex verso `skills/`; nessuna copia delle procedure |
+| [Positioning](references/maria-pia/positioning.md) | NOSTRO; decisioni personali fornite dall'utente | Approvato; priorità dei pubblici aperta |
+| [Voice](skills/content-linkedin/references/voice.md) | NOSTRO, approvata; reference separata ispirata a MASTELLA — WEBINAR | Canonica e preservata byte-per-byte; non da generare dai vecchi post |
+| [TOV Tempo Presente](references/tempo-presente/TONE_OF_VOICE.md) | NOSTRO; documento integrale fornito dall'utente, aggiornamento dichiarato 20 ottobre 2026 | Importato integralmente; fonte distinta dalla voice personale |
+| [Formats](skills/content-linkedin/references/formats.md) | NOSTRO; organizzazione ispirata a MASTELLA — WEBINAR | DA PERSONALIZZARE progressivamente; catalogo vuoto, nessun set definitivo |
+| [Performance](skills/content-linkedin/references/performance.md) | NOSTRO; metodo MASTELLA — REPO / WEBINAR | DA GENERARE DAI DATI; dati insufficienti |
+| [Graphics](skills/content-linkedin/references/graphics.md) | NOSTRO, adattamento Tempo Presente; reference separata MASTELLA — WEBINAR | Matrice disponibile; template e 4:5 DA PERSONALIZZARE, ancora aperti |
+| [UX Library](skills/content-linkedin/references/ux-library.md) | NOSTRO; sola presenza di una library descritta in MASTELLA — WEBINAR | DA PERSONALIZZARE se utile; originale non disponibile, contenuto non ricostruito |
+| [Revisione anti-AI](skills/revisione-anti-ai/SKILL.md) | NOSTRO, adattamento della checklist MASTELLA — REPO | Operativa sulla voice personale; controlli contestuali |
+| [Content Image](skills/content-image/SKILL.md) | NOSTRO; separazione testo/immagini ispirata al metodo MASTELLA — REPO / WEBINAR | Concept e specifiche; nessuna pipeline immagini dichiarata già attiva |
+| [Memoria voce](archivio/voce.md) | NOSTRO; metodo incrementale MASTELLA — REPO | DA GENERARE DAI DATI e dall'uso; nessuna correzione importata |
+| [Indice](archivio/post-indice.md), [testi](archivio/post-testi.md) | NOSTRO; metodo MASTELLA — REPO | DA GENERARE DAI DATI reali; nessun post importato |
+| [Dati performance](dati/performance-linkedin.md) | NOSTRO; metodo MASTELLA — REPO / WEBINAR | DA GENERARE DAI DATI reali; registro vuoto |
+| [Routine](routines/linkedin-weekly-plan.md) | NOSTRO, adattamento ampliato; ciclo MASTELLA — REPO / WEBINAR | Logica approvata, INATTIVA; nessuna frequenza fissata |
+| [DECISIONI](DECISIONI.md) | NOSTRO | Registro trasversale di approvazioni, esclusioni e scelte aperte |
+| [Guida](README-CONTENT-MANAGER.md), [integrazione](INTEGRAZIONE-CONTENT-MANAGER.md), questa mappa, introduzione README | NOSTRO | Documentazione corrente |
+| [.gitignore](.gitignore) | NOSTRO, aggiornamento selettivo T4 sul file esistente | Memoria curata tracciabile; bozze ed export locali esclusi |
+
+## Materiali storici preservati
 
 | Elemento | Provenienza | Stato |
 |---|---|---|
-| `AGENTS.md` / istruzioni dell'agente | MASTELLA-REPO come principio + NOSTRO per il ruolo Content Manager | PERSONALIZZATO PER TOMMASO |
-| `agents/content-linkedin.md` | NOSTRO | DA RAFFINARE CON IL METODO DI LAVORO DI TOMMASO |
-| `skills/content-linkedin/SKILL.md` | MASTELLA-REPO + MASTELLA-WEBINAR, tradotto nel formato skill OpenAI | DA CALIBRARE |
-| `references/voice.md` | MASTELLA-WEBINAR | DA GENERARE/PERSONALIZZARE |
-| `references/formats.md` | MASTELLA-WEBINAR | DA GENERARE DAI POST |
-| `references/performance.md` | MASTELLA-WEBINAR | DA GENERARE DAI DATI |
-| `references/graphics.md` | MASTELLA-WEBINAR | DA PERSONALIZZARE |
-| `references/ux-library.md` | MASTELLA-WEBINAR | DA COSTRUIRE; CONTENUTO ORIGINALE NON FORNITO |
-| `skills/revisione-anti-ai` | MASTELLA-REPO | BASE RIUTILIZZABILE, POI PERSONALIZZARE |
-| `skills/content-image` | MASTELLA-REPO/FAQ + WEBINAR come principio | NOSTRO FILE, DA PERSONALIZZARE |
-| `archivio/voce.md` | MASTELLA-REPO come metodo | DA GENERARE ESCLUSIVAMENTE DAI TESTI DI TOMMASO |
-| `archivio/post-indice.md` | MASTELLA-REPO | DA GENERARE DAI DATI LINKEDIN DI TOMMASO |
-| `archivio/post-testi.md` | MASTELLA-REPO | DA GENERARE DALL'EXPORT LINKEDIN DI TOMMASO |
-| `dati/performance-linkedin.md` | MASTELLA-REPO/WEBINAR come metodo | DA GENERARE DAI DATI DI TOMMASO |
-| `routines/linkedin-weekly-plan.md` | MASTELLA-REPO procedura 08 + webinar | DA ATTIVARE DOPO CALIBRAZIONE |
+| Corpo originale [README](README.md) e crediti | MASTELLA — REPO | Conservato integralmente dopo l'introduzione corrente |
+| `AGENTS-MASTELLA-ORIGINALE.md` | MASTELLA — REPO | Conservato, fuori dal flusso operativo |
+| `CLAUDE.md` e `.claude/skills/` | MASTELLA — REPO | Invariati; T3 esclusa, nessuna compatibilità Claude sviluppata |
+| `legacy/codex-skills/` | MASTELLA — REPO, copie precedentemente presenti in `.agents/skills/` | Originali conservati byte-per-byte fuori dal caricamento operativo |
+| `procedure/`, `toolkit/`, `esempio/` | MASTELLA — REPO | Conservati integralmente; metodo, esempi e dati non sono istruzioni o risultati personali |
+| Vecchio sito piagrossi.it | NOSTRO, fonte personale storica | Non importato; eventuale consultazione secondaria rispetto al posizionamento corrente |
 
-## Cosa NON abbiamo copiato da Mastella
-- la sua voce personale
-- i suoi esempi di post come regole per Tommaso
-- le sue metriche
-- la sua UX Library interna, non presente nei materiali forniti
-- le sue reference interne complete, non distribuite nella repo pubblica
-
-## Regola di sicurezza metodologica
-Quando un elemento è citato nel webinar ma il file originale non è nei materiali, viene creato solo uno scheletro esplicitamente marcato come da costruire; non si inventa il contenuto attribuendolo a Mastella.
+Non sono disponibili gli originali delle reference interne Mastella descritte nel webinar. La loro organizzazione può ispirare il sistema; i contenuti nuovi non vanno attribuiti a Mastella. Nessuna sua voce, pubblicazione o metrica è stata importata come dato di Maria Pia.

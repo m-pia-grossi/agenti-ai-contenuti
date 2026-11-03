@@ -1,8 +1,11 @@
 # UX Library per contenuti LinkedIn
 
-> **STATO: DA COSTRUIRE SE SERVE**
-> Origine: webinar Mastella, che cita una UX Library nella skill interna. Il contenuto non è incluso nei materiali pubblici forniti.
+**Stato: DA SVILUPPARE SE UTILE.**
 
-Questa reference deve raccogliere pattern di leggibilità e fruizione utili ai contenuti LinkedIn: scansione visiva, densità, gerarchie, carousel/diagrammi, leggibilità mobile e rapporto testo-visual.
+**Provenienza: NOSTRO — ispirato alla presenza di una UX Library nel sistema Mastella descritta nel webinar; contenuto originale non disponibile.** Questo file non ricostruisce la library originale e non attribuisce a Mastella regole non documentate.
 
-Non inventare regole: aggiungerle solo quando abbiamo esempi o criteri scelti esplicitamente.
+Scopo potenziale: raccogliere criteri ed esempi utili per leggibilità, scansione, hook, gerarchia informativa, ritmo, CTA ed esperienza di lettura, anche nel rapporto fra testo e visual.
+
+Il contenuto specifico resta da sviluppare. Aggiungere criteri soltanto con esempi o scelte esplicite, distinguendo proposte da regole approvate. Nessun catalogo di pattern è stato validato in questa fase.
+
+La [voice canonica](voice.md) e la [direzione grafica](graphics.md) restano le fonti operative nei rispettivi ambiti; questa reference vuota non blocca un contenuto autorizzato.

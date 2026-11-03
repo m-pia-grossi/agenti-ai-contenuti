@@ -1,3 +1,15 @@
+# Content Manager — Maria Pia Grossi
+
+Questa repository è il sistema operativo del progetto personale di Maria Pia Grossi in **Codex**. Parti dalla [guida corrente](README-CONTENT-MANAGER.md) e da [AGENTS.md](AGENTS.md); le approvazioni e le scelte aperte sono in [DECISIONI.md](DECISIONI.md).
+
+Le procedure canoniche sono in `skills/`, richiamate dai tre ingressi Codex in `.agents/skills/`. La voice personale è preservata e il TOV Tempo Presente è importato integralmente. La routine è **INATTIVA**. T3 è esclusa: `CLAUDE.md` e `.claude/skills/` restano materiale storico invariato.
+
+## Documentazione originale Mastella — storico
+
+Il testo originale seguente, inclusi i crediti, è conservato integralmente. Descrive il metodo e la demo di partenza; nomi, configurazioni e istruzioni che contiene non governano il flusso operativo Maria Pia. Per provenienze e adattamenti consulta la [mappa](MAPPA-PERSONALIZZAZIONE.md).
+
+---
+
 # Agenti AI per i contenuti
 
 Il toolkit del webinar "Agenti AI per i contenuti" della Agents Week di Learnn: prompt, skill, procedure e una cartella di esempio per costruire un sistema che porta post LinkedIn e articoli del blog dai dati alla bozza. La revisione e la pubblicazione restano a te.

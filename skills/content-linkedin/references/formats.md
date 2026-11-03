@@ -1,18 +1,16 @@
-# Formati LinkedIn
+# Formati LinkedIn — Maria Pia Grossi
 
-> **STATO: DA GENERARE DAI TUOI POST + DA PERSONALIZZARE**
-> Origine: webinar Mastella, dove il sistema reale usa una reference dedicata ai formati.
+**Stato: DA SVILUPPARE PROGRESSIVAMENTE.** Non è approvato un set definitivo di formati.
 
-Per ogni formato registrare: nome, quando usarlo, struttura, esempi propri, performance osservata, casi in cui non usarlo.
+Origine: NOSTRO. Il metodo Mastella è un riferimento metodologico; i suoi formati non sono automaticamente quelli di Maria Pia.
 
-## Formato 1 — da identificare
-- Quando usarlo:
-- Struttura:
-- Esempi tuoi:
-- Evidenza di performance:
+I formati nascono dalla progettazione intenzionale, dalle strutture naturali per Maria Pia e dalle successive correzioni e pubblicazioni. I vecchi post sono una fonte secondaria, non un catalogo obbligatorio. Consulta la [voice canonica](voice.md) e il [posizionamento](../../../references/maria-pia/positioning.md).
 
-## Formato 2 — da identificare
-- Quando usarlo:
-- Struttura:
-- Esempi tuoi:
-- Evidenza di performance:
+## Registro dei formati
+
+| Nome | Uso/obiettivo | Quando usarlo | Quando non usarlo | Struttura | Stato: sperimentale/validato | Esempi reali (ID) | Evidenze e approvazione |
+|---|---|---|---|---|---|---|---|
+
+Il registro è volutamente vuoto. Proponi un formato adatto al singolo contenuto, dichiarandolo sperimentale quando non validato. Non precompilare il catalogo con esempi fittizi o un numero prestabilito di formati. L'approvazione di un piano consente l'uso del formato in quel piano, senza renderlo automaticamente standard definitivo.
+
+Una futura validazione deve specificare cosa è stato verificato: naturalezza della scrittura, chiarezza, correzioni di Maria Pia o risultati osservati. La preferenza stilistica non prova una performance migliore. Le conclusioni sulle performance rinviano alla [reference dedicata](performance.md) e ai dati reali; annota criteri ed evidenze senza soglie temporali universali.
