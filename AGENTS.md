@@ -38,6 +38,7 @@ Codex scopre tre ingressi in `.agents/skills/`: rimandano ai file canonici in `s
 6. Salva le decisioni approvate nella sede canonica e il riferimento all'approvazione in DECISIONI. Non conservare la stessa regola integralmente in più file. Non richiedere di nuovo un'autorizzazione già esplicita e ancora applicabile.
 7. Mantieni separati fonti originali, osservazioni, regole approvate e misure. Conserva i testi pubblicati senza riscriverli; aggiorna indici e rilevazioni senza alterare le fonti grezze.
 8. La routine è **INATTIVA**. Non creare schedulazioni in questa fase. Priorità dei pubblici, frequenza, formati definitivi, template e obbligatorietà del 4:5 restano aperti.
+9. Alla fine di ogni blocco di lavoro significativo, aggiorna `docs/STATO-PROGETTO.md` con Fatto / In corso / Prossimo passo.
 
 ## Materiali storici
 
