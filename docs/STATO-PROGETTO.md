@@ -10,11 +10,11 @@ Aggiornato il 4 novembre 2026.
 
 ## In corso
 
-Nessuna attività tecnica aperta. La fase editoriale è pronta a ripartire.
+È aperto il confronto sui primi formati editoriali sperimentali. Due ipotesi in discussione: «La domanda prima del brief» e «Una scelta da prendere».
 
 ## Prossimo passo
 
-Dopo il Tone of Voice personale, sviluppare i primi [formati editoriali sperimentali](../skills/content-linkedin/references/formats.md). Per ciascuno definire funzione, struttura e condizioni d’uso.
+Raccogliere il riscontro di Maria Pia su quale struttura le venga più naturale e provarla su una domanda di lavoro reale. Il [registro dei formati](../skills/content-linkedin/references/formats.md) raccoglierà quelli scelti per la prova.
 
 ## Decisioni ancora aperte
 

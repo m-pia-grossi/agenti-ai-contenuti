@@ -39,6 +39,7 @@ Codex scopre tre ingressi in `.agents/skills/`: rimandano ai file canonici in `s
 7. Mantieni separati fonti originali, osservazioni, regole approvate e misure. Conserva i testi pubblicati senza riscriverli; aggiorna indici e rilevazioni senza alterare le fonti grezze.
 8. La routine è **INATTIVA**. Non creare schedulazioni in questa fase. Priorità dei pubblici, frequenza, formati definitivi, template e obbligatorietà del 4:5 restano aperti.
 9. Alla fine di ogni blocco di lavoro significativo, aggiorna `docs/STATO-PROGETTO.md` con Fatto / In corso / Prossimo passo.
+10. **Uso del contesto.** Alla ripresa del lavoro, parti da `docs/STATO-PROGETTO.md`. Consulta le decisioni e i file pertinenti al compito, riutilizzando quanto già letto finché è attuale. Esamina la repository completa o i materiali storici solo per un’esigenza concreta. Se Maria Pia delimita i file da leggere, prima di ampliare il perimetro indica quale file serve e perché.
 
 ## Materiali storici
 
