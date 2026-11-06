@@ -37,6 +37,7 @@ La stessa approvazione prescrive voice personale invariata byte-per-byte, import
 | D07 | 2026-11-05 | APPROVATA | Guida proattiva del Content Manager | Richiesta di Maria Pia nella chat di progetto dopo la condivisione delle attività LinkedIn | [AGENTS, regola 11](AGENTS.md#regole-operative) |
 | D08 | 2026-11-05 | APPROVATA | Continuità dei temi nelle sintesi editoriali | Correzione di Maria Pia nella chat di progetto durante il confronto sui pilastri | [AGENTS, regola 12](AGENTS.md#regole-operative) |
 | D09 | 2026-11-05 | APPROVATA PER LA SPERIMENTAZIONE | Testi sulla regia dei progetti e sulla fiducia nei team | Indicazione di Maria Pia nella chat di progetto sui temi editoriali | [Stato del progetto](docs/STATO-PROGETTO.md#in-corso) |
+| D10 | 2026-11-06 | APPROVATA | Taglio emozionale di ogni post LinkedIn | Maria Pia, chat di progetto: «dare sempre un taglio emzionale ai post» | [Voice personale, postura](skills/content-linkedin/references/voice.md#postura) |
 | T1 | Approvata 2026-11-03 | APPROVATA | Tre ingressi Codex con rimando alle procedure canoniche; originali trasferiti in legacy | S3, caricamento skill | [Integrazione](docs/INTEGRAZIONE-CONTENT-MANAGER.md) |
 | T2 | Approvata 2026-11-03 | APPROVATA | Reference condivise per positioning e TOV integrale; questo registro | S3, persistenza | [Positioning](references/maria-pia/positioning.md), [TOV](references/tempo-presente/TONE_OF_VOICE.md), questo file |
 | T3 | Esclusa 2026-11-03 | ESCLUSA | Nessun lavoro di compatibilità Claude; file esistenti conservati come storico | S3, perimetro tecnico | [AGENTS](AGENTS.md), [integrazione](docs/INTEGRAZIONE-CONTENT-MANAGER.md) |
@@ -45,7 +46,7 @@ La stessa approvazione prescrive voice personale invariata byte-per-byte, import
 | O1 | Approvata 2026-11-03 | APPROVATA | Riordino dei soli percorsi documentali e storici; sistema operativo e contenuti canonici invariati | S4, organizzazione | [Mappa](docs/MAPPA-PERSONALIZZAZIONE.md#riordino-organizzativo--3-novembre-2026) |
 | O2 | Approvata 2026-11-03 | APPROVATA | Tutti i materiali storici raccolti in mastella/; aggiorna la collocazione prevista da O1 | S5, organizzazione | [Mappa](docs/MAPPA-PERSONALIZZAZIONE.md#riordino-organizzativo--3-novembre-2026) |
 
-SHA-256 della voice personale preservata: `4660B34A7B9DA93BAFE642E03B208F8FDC2A99F9277ABE556336560D84A5DAFE`.
+SHA-256 della voice personale preservata al riallineamento del 3 novembre 2026, prima di D10: `4660B34A7B9DA93BAFE642E03B208F8FDC2A99F9277ABE556336560D84A5DAFE`.
 
 ## Decisioni volutamente aperte
 

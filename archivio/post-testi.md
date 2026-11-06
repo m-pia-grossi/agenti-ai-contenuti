@@ -1,6 +1,6 @@
 # Testi pubblicati — Maria Pia Grossi
 
-**Stato: NESSUN TESTO PERSONALE IMPORTATO.** Origine: NOSTRO; contenuti DA GENERARE DALLE PUBBLICAZIONI reali.
+**Stato: un corpo di testo acquisito dalla versione scelta dall’autrice.**
 
 Per ogni contenuto effettivamente pubblicato conserva:
 
@@ -14,4 +14,12 @@ Se il post viene modificato dopo la pubblicazione, conserva anche la versione pr
 
 ## Contenuti acquisiti
 
-Nessuno. Non inserire testi dimostrativi o ricostruzioni.
+### U07 · Il manico del pelapatate
+
+Pubblicazione confermata e registrata il 6 novembre 2026. Fonte: Maria Pia, chat di progetto. Corpo conservato dalla [v5 scelta dall’autrice](../bozze/2026-11-06-U07-pelapatate-v5.md). Permalink e presenza online di illustrazione e hashtag da verificare.
+
+Per pelare una patata, quanta forza serve nella mano?
+
+Betsey Farber aveva l’artrite e faceva fatica a impugnare il suo pelapatate di metallo. Suo marito Sam se ne accorse e si rivolse ai progettisti di Smart Design. Il pelapatate che disegnarono per OXO aveva un manico largo e ovale, con piccole incisioni nella gomma per facilitare la presa.
+
+Un’impresa può sapere tutto sull’acciaio delle sue lame e avere ancora qualcosa da imparare guardando come una persona tiene in mano ciò che produce.

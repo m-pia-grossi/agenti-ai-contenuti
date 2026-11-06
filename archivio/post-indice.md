@@ -1,9 +1,10 @@
 # Indice dei post pubblicati — Maria Pia Grossi
 
-**Stato: NESSUN POST PERSONALE IMPORTATO.** Origine: NOSTRO; contenuti DA GENERARE DAI DATI reali.
+**Stato: prima pubblicazione registrata su conferma di Maria Pia.**
 
 | ID post | Data di pubblicazione | Tema | Formato | Fonte/origine del contenuto | URL o prova di pubblicazione | Stato |
 |---|---|---|---|---|---|---|
+| U07 | 6 novembre 2026 (conferma dell’autrice) | Umanizzazione del brand | Post LinkedIn | Caso OXO, [testo scelto](../bozze/2026-11-06-U07-pelapatate-v5.md) | Maria Pia in chat: «post pubblicato». Permalink non disponibile. | Pubblicato |
 
 Registra soltanto pubblicazioni effettive. Lo stato descrive il pubblicato e suoi eventuali aggiornamenti, non una bozza prevista. Se manca un dato, indicalo come non disponibile senza inventarlo.
 

@@ -107,6 +107,8 @@ Usare con misura:
 
 ## Postura
 
+Dai a ogni post LinkedIn un taglio emozionale. Parti da ciò che una scelta significa per chi la vive. Lascia emergere l’emozione da un gesto, da una conseguenza concreta o dalle parole della persona. Attribuiscile un sentimento solo quando la fonte lo sostiene.
+
 La voce deve trasmettere:
 
 **curiosità + lucidità + pragmatismo + apertura + capacità critica.**
