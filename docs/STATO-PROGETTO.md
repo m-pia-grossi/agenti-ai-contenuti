@@ -1,6 +1,6 @@
 # Stato del progetto LinkedIn di Maria Pia Grossi
 
-Aggiornato il 4 novembre 2026.
+Aggiornato il 6 novembre 2026.
 
 ## Fatto
 
@@ -10,11 +10,31 @@ Aggiornato il 4 novembre 2026.
 
 ## In corso
 
-È aperto il confronto sui primi formati editoriali sperimentali. Due ipotesi in discussione: «La domanda prima del brief» e «Una scelta da prendere».
+La [prima bozza del piano editoriale personale](../bozze/2026-11-05-P01-piano-editoriale-linkedin-v1.md) raccoglie obiettivo, interlocutori, temi, materiali di partenza, ipotesi di rubriche e passaggi verso il calendario.
+
+Temi editoriali da portare avanti, senza ordine di priorità:
+
+- **Umanizzazione del brand.** Come l’azienda costruisce l’incontro con le persone e progetta esperienze vicine ai loro bisogni.
+- **I bisogni che il marketing aiuta a vedere.** I desideri «che non sappiamo ancora di avere». Nell’esempio dell’«unicorno» discusso in chat, chi prova il prodotto immagina un uso sfuggito a chi lo ha progettato. Da qui si può esplorare il posizionamento prima della comunicazione.
+- **Il senso e la direzione dell’innovazione.** Quale cambiamento scegliamo di perseguire, per chi e perché. Un riferimento è la riflessione di Maria Pia sui Laboratori del Pensiero.
+- **La responsabilità dei brand e delle imprese verso le persone.** Le conseguenze delle scelte aziendali su chi lavora, acquista o vive in una comunità. Tra i precedenti c’è il post di Maria Pia su Ridaje.
+- **Vivere il cambiamento nell’era dell’intelligenza artificiale.** Cosa cambia per le persone nelle imprese, nelle startup e nella società, e quali paure, aspettative o altre emozioni accompagnano questi cambiamenti.
+
+Maria Pia ha scelto di esplorare la regia dei progetti di marketing e la fiducia tra colleghi, specialisti e fornitori attraverso testi sperimentali. Dopo la prova valuterà se dare seguito a questi temi.
+
+Le attività LinkedIn condivise nella chat di progetto sono disponibili come fonte.
+
+Il [piano raccoglie i cinque profili segnalati da Maria Pia](../bozze/2026-11-05-P01-piano-editoriale-linkedin-v1.md#profili-da-consultare-per-i-temi) per la ricerca di spunti tematici.
+
+Dal confronto sul webinar nella chat «Personal brand vignali» del progetto «Linkedin PIA» emerge un’impronta editoriale da esplorare: osservare la stessa situazione dal punto di vista dell’impresa e da quello della persona, mostrando cosa si vede passando dall’uno all’altro. Due riferimenti sono il post sui cereali per cena e l’esercizio ipotetico sull’«unicorno».
+
+Il primo formato sperimentale, [F01 · L’uso che viene in mente](../skills/content-linkedin/references/formats.md), è pronto per una prova su materiale reale. La struttura nasce dal confronto su due scene ipotetiche, la mensa e la guida al lavaggio.
+
+- [ ] Rendere privata la repository GitHub del progetto. Verificare la procedura applicabile a un fork.
 
 ## Prossimo passo
 
-Raccogliere il riscontro di Maria Pia su quale struttura le venga più naturale e provarla su una domanda di lavoro reale. Il [registro dei formati](../skills/content-linkedin/references/formats.md) raccoglierà quelli scelti per la prova.
+La [v5 di U07](../bozze/2026-11-06-U07-pelapatate-v5.md) conserva i tre paragrafi scelti da Maria Pia, con illustrazione, testo alternativo e tre hashtag proposti. Il pacchetto è pronto per la sua lettura. Il piano e le date restano in valutazione.
 
 ## Decisioni ancora aperte
 

@@ -41,6 +41,10 @@ Codex scopre tre ingressi in `.agents/skills/`: rimandano ai file canonici in `s
 9. Alla fine di ogni blocco di lavoro significativo, aggiorna `docs/STATO-PROGETTO.md` con Fatto / In corso / Prossimo passo.
 10. **Uso del contesto.** Alla ripresa del lavoro, parti da `docs/STATO-PROGETTO.md`. Consulta le decisioni e i file pertinenti al compito, riutilizzando quanto già letto finché è attuale. Esamina la repository completa o i materiali storici solo per un’esigenza concreta. Se Maria Pia delimita i file da leggere, prima di ampliare il perimetro indica quale file serve e perché.
 
+11. Guida Maria Pia nel lavoro. Verifica prima cosa puoi fare con la repository e i materiali già forniti, inclusi quelli del webinar quando pertinenti. Procedi in autonomia per i passaggi autorizzati. Appena serve un intervento di Maria Pia, indica cosa occorre, perché e il modo più semplice per farlo.
+
+12. Quando sintetizzi il lavoro editoriale, conserva i temi già accolti e integra le nuove idee. Accorpa le formulazioni equivalenti mantenendo le sfumature emerse. Rimuovi o declassa un tema solo su indicazione di Maria Pia.
+
 ## Materiali storici
 
 Tutti i materiali storici Mastella sono raccolti in `mastella/`, fuori dal flusso operativo Maria Pia. Consultali solo come fonti storiche quando pertinenti, senza applicarne automaticamente istruzioni, voce, metriche o frequenze. Non modificarli per personalizzarli. La compatibilità Claude (T3) è esclusa.
